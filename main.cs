@@ -34,7 +34,6 @@ if (total == 21){
   return "Your total after adding your first and second cards is = " + total;
 }
   public static void Main (string[] args) {
-    Console.WriteLine ("Hello World");
   Console.WriteLine(drawCardA());
   Console.WriteLine(drawCardB());
   }
